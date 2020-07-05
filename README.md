@@ -14,7 +14,7 @@ Stackoverflow was a tremendous resource for this project. The dates used were in
 Based on this data, the CEO of PyBer may want to reconsider spreading the ride sharing service to rural areas. Rural rides make up a small percentage of users, but they are the most expensive ride type. This most likely has to do with the fact that less people are using ride sharing services in rural areas, and a lack of demand for ride sharing services in rural areas. Additional analysis could be done with the ride ID’s to discover how many rides per day each driver was completing. A further analysis of the date-time values could also provide more insights such as which days of the week are most popular to use PyBer. This could allow the CEO to get more drivers on the road during busy times. Urban and suburban areas make up the core of the business and they should be focused on more heavily than rural areas.  
 
 
-![Total Fares By City Type](fig8.png)
+![Total Fares By City Type](Fig8.png)
 
 Yellow Line = Urban Cities
 
